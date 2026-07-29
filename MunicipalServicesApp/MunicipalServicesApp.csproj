@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>disable</Nullable>
+    <RootNamespace>MunicipalServicesApp</RootNamespace>
+    <AssemblyName>MunicipalServicesApp</AssemblyName>
+    <ApplicationIcon />
+    <StartupObject>MunicipalServicesApp.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
