@@ -50,7 +50,7 @@ namespace MunicipalServicesApp.Forms
             //
             // lblHeading
             //
-            this.lblHeading.BackColor = System.Drawing.Color.FromArgb(0, 84, 61);
+            this.lblHeading.BackColor = System.Drawing.Color.FromArgb(0, 82, 120);
             this.lblHeading.Dock = System.Windows.Forms.DockStyle.Top;
             this.lblHeading.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Bold);
             this.lblHeading.ForeColor = System.Drawing.Color.White;
@@ -165,7 +165,7 @@ namespace MunicipalServicesApp.Forms
             //
             this.lblEngagement.AutoSize = false;
             this.lblEngagement.Font = new System.Drawing.Font("Segoe UI", 9.5F, System.Drawing.FontStyle.Bold);
-            this.lblEngagement.ForeColor = System.Drawing.Color.FromArgb(0, 120, 90);
+            this.lblEngagement.ForeColor = System.Drawing.Color.FromArgb(0, 82, 120);
             this.lblEngagement.Location = new System.Drawing.Point(25, 397);
             this.lblEngagement.Name = "lblEngagement";
             this.lblEngagement.Size = new System.Drawing.Size(490, 25);
@@ -174,7 +174,7 @@ namespace MunicipalServicesApp.Forms
             //
             // btnSubmit
             //
-            this.btnSubmit.BackColor = System.Drawing.Color.FromArgb(0, 120, 90);
+            this.btnSubmit.BackColor = System.Drawing.Color.FromArgb(0, 82, 120);
             this.btnSubmit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSubmit.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold);
             this.btnSubmit.ForeColor = System.Drawing.Color.White;
